@@ -1,6 +1,8 @@
 ﻿using System.Web;
 using System.Web.Optimization;
-
+/// <summary>
+///  Projeto Senac OSASCO demostração de GIT HUB
+/// </summary>
 namespace Saude
 {
     public class BundleConfig

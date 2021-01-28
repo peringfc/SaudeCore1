@@ -12,6 +12,10 @@ using Saude.Models;
 
 namespace Saude.Controllers
 {
+
+    /// <summary>
+    /// Autenticação no controle do usuarios
+    /// </summary>
     [Authorize]
     public class AccountController : Controller
     {
